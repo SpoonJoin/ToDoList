@@ -1,0 +1,18 @@
+body {
+    background-color: burlywood;
+    font-family: "Comic Sans MS", serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.tasks {
+    margin-left: 70px;
+}
+
+.task-link {
+    font-size: x-large;
+    font-style: italic;
+    font-family: Bahnschrift, serif;
+}
